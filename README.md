@@ -3,6 +3,8 @@
 Pagina comercial em desenvolvimento para a empresa de cerificados digitais.
 
 ## visualização
+![Preview](readme-mega.jpg)
+
 
 
 ## Status
